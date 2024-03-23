@@ -1,0 +1,17 @@
+GET http://localhost:8000
+
+
+### LOGIN ROUTE
+POST http://localhost:8000/login
+
+
+### REGISTER ROUTE
+POST http://localhost:8000/register
+
+
+### REFRESH TOKEN ROUTE
+POST http://localhost:8000/refresh-token
+
+
+### LOGOUT ROUTE
+DELETE http://localhost:8000/logout
